@@ -1,0 +1,28 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+body {
+    margin: 0;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: #F5F5F5;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
